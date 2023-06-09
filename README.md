@@ -4,6 +4,7 @@
 
 This code is used to fetch stock index data using the `yfinance` library and visualize it using `plotly` library in Python. The code downloads historical data for four stock indices (`^GSPC`, `^DJI`, `^GDAXI`, `^HSI`) and calculates and plots the 20-day and 50-day Simple Moving Averages (SMA) for each index. It also adds trend signal annotations to the chart based on the relationship between the fast and slow moving averages.
 
+![image](https://github.com/jamiePDunne/python_marketGrid/assets/83908748/f2435314-0b50-42fb-a26f-5034a2290c42)
 
 
 ## Prerequisites
